@@ -1,0 +1,48 @@
+.cuadro{
+    background-color: rgb(3, 3, 3);
+    font-size: 100%;
+    width: 500px;
+    height: 580px;
+    }
+
+.titulo{
+    padding: 1em;
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+
+form label {
+    padding: 1em;
+    text-align: center;
+    color: brown;
+}
+
+.botones{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    transform: scale(0.9);
+    border-radius: 50%;
+}
+
+button{
+    background-color: rgb(3, 65, 44);
+    color: rgb(4, 65, 29);
+    width: 250px;
+    height: 5em;
+    margin: 1em;
+    
+}
+
+.dato {
+    text-align: center;
+    font-size: 100px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+#resultado{
+    color: brown;
+    text-align: center;
+}
